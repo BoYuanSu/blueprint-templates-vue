@@ -1,0 +1,6 @@
+{
+    "suffixesToIgnoreInInput": [
+      "Component"
+    ],
+    "createFilesInFolderWithPattern": "axios"
+  }
