@@ -1,0 +1,11 @@
+<template>
+  <div class="{{kebabCase name}}">
+    {{pascalCase name}}
+  </div>
+</template>
+
+<script setup>
+
+</script>
+
+<style lang="scss" src="./{{ pascalCase name }}.scss"></style>
